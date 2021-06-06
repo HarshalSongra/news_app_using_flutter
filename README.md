@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+This app uses NewsAPI to get various sources and each source can provide major headlines. 
 
 ## Getting Started
 
